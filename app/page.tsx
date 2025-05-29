@@ -215,7 +215,7 @@ export default function Home() {
                 It all started with the <a href="https://www.letsrun.com/forum/flat_read.php?thread=12130781" target="_blank" rel="noopener noreferrer" className="text-[#111111] border-b border-[#111111] border-opacity-50">best ever thread</a> on the worst site on the internet.
               </p>
 
-              <p className="mb-6">What began in July 2023 as a simple comment by Sirpoc, a then-anonymous amateur runner, has snowballed into a movement. One that promises PBs across distances from 5K to the marathon while offering a more sustainable way to train, with less fatigue and fewer injuries.</p>
+              <p className="mb-6">What began in July 2023 as a simple comment by Sirpoc, a then-anonymous amateur runner, has <a href="https://www.strava.com/clubs/1175805" target="_blank" rel="noopener noreferrer" className="text-[#111111] border-b border-[#111111] border-opacity-50">snowballed into a movement</a>. One that promises PBs across distances from 5K to the marathon while offering a more sustainable way to train, with less fatigue and fewer injuries.</p>
 
               <p className="mb-6">Some claim Sirpoc has <a href="https://www.reddit.com/r/AdvancedRunning/comments/1k9zx83/has_the_sirpoc_method_solved_hobby_jogging/" target="_blank" rel="noopener noreferrer" className="text-[#111111] border-b border-[#111111] border-opacity-50">solved hobbyjogging</a>. Whether or not that's true, there's a strong case that most amateur runners would benefit from understanding the Norwegian Singles Method.</p>
 
@@ -274,7 +274,7 @@ export default function Home() {
                   It all started with the <a href="https://www.letsrun.com/forum/flat_read.php?thread=12130781" target="_blank" rel="noopener noreferrer" className="text-[#111111] border-b border-[#111111] border-opacity-50">best ever thread</a> on the worst site on the internet.
                 </p>
 
-                <p className="mb-6">What began in July 2023 as a simple comment by Sirpoc, a then-anonymous amateur runner, has snowballed into a movement. One that promises PBs across distances from 5K to the marathon while offering a more sustainable way to train, with less fatigue and fewer injuries.</p>
+                <p className="mb-6">What began in July 2023 as a simple comment by Sirpoc, a then-anonymous amateur runner, has <a href="https://www.strava.com/clubs/1175805" target="_blank" rel="noopener noreferrer" className="text-[#111111] border-b border-[#111111] border-opacity-50">snowballed into a movement</a>. One that promises PBs across distances from 5K to the marathon while offering a more sustainable way to train, with less fatigue and fewer injuries.</p>
 
                 <p className="mb-6">Some claim Sirpoc has <a href="https://www.reddit.com/r/AdvancedRunning/comments/1k9zx83/has_the_sirpoc_method_solved_hobby_jogging/" target="_blank" rel="noopener noreferrer" className="text-[#111111] border-b border-[#111111] border-opacity-50">solved hobbyjogging</a>. Whether or not that's true, there's a strong case that most amateur runners would benefit from understanding the Norwegian Singles Method.</p>
 
