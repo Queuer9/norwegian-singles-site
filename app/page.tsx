@@ -232,8 +232,8 @@ export default function Home() {
               <p className="mb-6">For someone with a 5K PB of 15:01, there's no sign on his Strava of the lung-busting hero workouts that are the staple of most sub-elite training. In fact, if you follow him on the platform you'll struggle to discern anything interesting - there's no trip to Kenya, no hills, no x-factor sessions and even the easy runs are slower than most coaches would prescribe.</p>
               <p className="mb-6">If anything, his approach to training looks pretty boring, if not wrong-headed. But he's stuck with it for almost three years - eschewing conventional wisdom and the temptation to implement the latest fad workout.</p>
               <p className="mb-6">His results are anything but boring.</p>
-              <p className="mb-6">He ran his debut marathon in 2:24:08, having never completed the distance in training.</p>
-              <p className="mb-6">On a day when most runners blew up in the heat. At 41 years old. After a night down the pub, three hours sleep and a Mars bar for breakfast.</p>
+              <p className="mb-6">At 41 years old, he ran his debut marathon in 2:24:08, having never completed the distance in training.</p>
+              <p className="mb-6">He did this on a day when most runners blew up in the heat. After a night down the pub, three hours sleep and a Mars bar for breakfast.</p>
               <p className="mb-6">It's tempting to chalk this kind of performance up to prodigious natural talent, but that doesn't seem to be the case. He ran his first ever Parkrun in 21:34 and, after a year of following traditional running plans, plateaued at a respectable but unremarkable range of 18:30-19:00.</p>
               <p className="mb-6">He has some pedigree in cycling and competed in time trials at the sub-elite level. But, as we'll see, his performance on the bike and as a runner is not about having the right genes.</p>
               <p className="mb-6">It is his ability to perceive and develop insights into what really drives improvement - to isolate and focus on this relentlessly and consistently - that has underpinned his success.</p>
@@ -289,8 +289,8 @@ export default function Home() {
                 <p className="mb-6">For someone with a 5K PB of 15:01, there's no sign on his Strava of the lung-busting hero workouts that are the staple of most sub-elite training. In fact, if you follow him on the platform you'll struggle to discern anything interesting - there's no trip to Kenya, no hills, no x-factor sessions and even the easy runs are slower than most coaches would prescribe.</p>
                 <p className="mb-6">If anything, his approach to training looks pretty boring, if not wrong-headed. But he's stuck with it for almost three years - eschewing conventional wisdom and the temptation to implement the latest fad workout.</p>
                 <p className="mb-6">His results are anything but boring.</p>
-                <p className="mb-6">He ran his debut marathon in 2:24:08, having never completed the distance in training.</p>
-                <p className="mb-6">On a day when most runners blew up in the heat. At 41 years old. After a night down the pub, three hours sleep and a Mars bar for breakfast.</p>
+                <p className="mb-6">At 41 years old, he ran his debut marathon in 2:24:08, having never completed the distance in training.</p>
+                <p className="mb-6">He did this on a day when most runners blew up in the heat. After a night down the pub, three hours sleep and a Mars bar for breakfast.</p>
                 <p className="mb-6">It's tempting to chalk this kind of performance up to prodigious natural talent, but that doesn't seem to be the case. He ran his first ever Parkrun in 21:34 and, after a year of following traditional running plans, plateaued at a respectable but unremarkable range of 18:30-19:00.</p>
                 <p className="mb-6">He has some pedigree in cycling and competed in time trials at the sub-elite level. But, as we'll see, his performance on the bike and as a runner is not about having the right genes.</p>
                 <p className="mb-6">It is his ability to perceive and develop insights into what really drives improvement - to isolate and focus on this relentlessly and consistently - that has underpinned his success.</p>
