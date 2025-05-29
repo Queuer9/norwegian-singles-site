@@ -1,4 +1,5 @@
 import './globals.css'
+import CookieConsent from './components/CookieConsent'
 
 export const metadata = {
   title: 'Norwegian Singles Method',
@@ -15,7 +16,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="bg-[#FDFCF8] text-[#111111]">{children}</body>
+      <body className="bg-[#FDFCF8] text-[#111111]">
+        {children}
+        <CookieConsent />
+      </body>
     </html>
   )
 }
